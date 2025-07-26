@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a software engineer skilled in Ruby on Rails, API integration, and real-time features. I’ve built and maintained products like Halalin Academy, Backoffice, Identity, and Payment Gateway, with experience in debugging, refactoring, and performance. I'm eager to learn new tech.
 
 
 ## 🌐 Socials:
